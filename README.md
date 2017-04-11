@@ -12,7 +12,7 @@ If you don't have Python installed, navigate to the [Python downloads page](http
 ## Installing
 * Clone the repository from Github:
 
- 1)clone the [repository from GitHub](https://github.com/dariadmitrochenko/Project-1-Movie-Trailer-Website.git) (instructions on how to clone a repository from Github [here](https://help.github.com/articles/cloning-a-repository/))
+ 1) clone the [repository from GitHub](https://github.com/dariadmitrochenko/Project-1-Movie-Trailer-Website.git) (instructions on how to clone a repository from Github [here](https://help.github.com/articles/cloning-a-repository/))
 
  2) `cd` into the directory
 
